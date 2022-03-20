@@ -1,2 +1,1 @@
-# IT490Personal
-My Personal code for IT490
+# IT490
